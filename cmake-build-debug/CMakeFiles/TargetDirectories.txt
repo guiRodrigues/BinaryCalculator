@@ -1,0 +1,3 @@
+/home/guilherme/CLionProjects/Calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/guilherme/CLionProjects/Calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/guilherme/CLionProjects/Calculator/cmake-build-debug/CMakeFiles/Calculator.dir
